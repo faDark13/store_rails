@@ -215,6 +215,9 @@ We welcome contributions! Please read our [CONTRIBUTING.md](file:///home/bruce_p
 
 Please report any security vulnerabilities responsibly. See [SECURITY.md](file:///home/bruce_pham/code/store_rails/SECURITY.md) for our vulnerability disclosure policy and contact details.
 
+## Deepwiki
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://github.com/faDark13/store_rails)
 ---
 
 ## License
