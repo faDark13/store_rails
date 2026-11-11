@@ -4,7 +4,7 @@
 [![Ruby](https://img.shields.io/badge/Ruby-3.4.10-red.svg)](https://www.ruby-lang.org/)
 [![Rails](https://img.shields.io/badge/Rails-8.1.3-cc0000.svg)](https://rubyonrails.org/)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](LICENSE)
-
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://github.com/faDark13/store_rails)
 A modern, high-performance web store application built on **Ruby on Rails 8**, designed for speed, developer joy, and seamless production readiness.
 
 ---
@@ -215,9 +215,6 @@ We welcome contributions! Please read our [CONTRIBUTING.md](file:///home/bruce_p
 
 Please report any security vulnerabilities responsibly. See [SECURITY.md](file:///home/bruce_pham/code/store_rails/SECURITY.md) for our vulnerability disclosure policy and contact details.
 
-## Deepwiki
-
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://github.com/faDark13/store_rails)
 ---
 
 ## License
